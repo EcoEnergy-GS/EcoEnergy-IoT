@@ -45,9 +45,9 @@ Link do repositório com a documentação do projeto:
 ## Autores 
 Alunos da Faculdade de Informática e Administração Paulista (FIAP) turma 2TDSPF.
 
-- [@Jixatos RM551408](https://github.com/Jixatos) RM551408
+- [@Jixatos](https://github.com/Jixatos) RM551408
 - [@IsabellajFerreira](https://github.com/IsabellajFerreira) RM552329
 - [@gutolive09](https://github.com/gutolive09) RM550548
 - [@Mmateus106](https://github.com/Mmateus106) RM98524
-- [@gabrielrodri33 RM550548](https://github.com/gabrielrodri33) RM98626
+- [@gabrielrodri33](https://github.com/gabrielrodri33) RM98626
 
