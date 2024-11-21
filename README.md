@@ -12,6 +12,7 @@ O coração do EcoEnergy é um dispositivo IoT projetado para monitorar o consum
 Link do repositório com a documentação do projeto:
 
 [Documentação](https://github.com/EcoEnergy-GS/Documents.git)
+[Vídeo](https://youtu.be/wmGusNWIzDQ)
 
 
 ## Passos para Executar o Projeto
